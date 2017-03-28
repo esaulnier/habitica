@@ -262,7 +262,7 @@
     "youHaveGroupPlan": "Du hast ein kostenloses Abonnenement, weil Du einer Gruppe angehörst, die einen Gruppenplan hat. Dies endet, wenn Du nicht mehr in der Gruppe mit dem Gruppenplan bist. Deine zusätzlichen Abonnementsguthaben-Monate werden am Ende des Gruppenplans angehängt.",
     "cancelGroupSub": "Gruppenplan abbrechen",
     "confirmCancelGroupPlan": "Bist Du Dir sicher, dass du den Gruppenplan abbrechen möchtest und damit alle Gruppenmitglieder dessen Vorteile verlieren, unter anderem auch deren freies Abonnement?",
-    "canceledGroupPlan": "Canceled Group Plan",
-    "groupPlanCanceled": "Group Plan will become inactive on",
+    "canceledGroupPlan": "Abgebrochener Gruppenplan",
+    "groupPlanCanceled": "Der Gruppenplan wird inaktiv werden zum",
     "purchasedGroupPlanPlanExtraMonths": "Du hast <%=months %> Monate zusätzliches Gruppenplan-Guthaben"
 }

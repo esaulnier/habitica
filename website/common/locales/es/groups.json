@@ -262,7 +262,7 @@
     "youHaveGroupPlan": "Tienes una suscripción gratuita porque eres miembro de un grupo que tiene un Plan de Grupo. Cualquier saldo de meses extra de suscripción que tengas se aplicará al final del plan de grupo.",
     "cancelGroupSub": "Cancelar plan de grupo",
     "confirmCancelGroupPlan": "¿Estás seguro de que quieres cancelar el plan de grupo y eliminar los beneficios de todos los miembros, incluyendo sus suscripciones gratuitas?",
-    "canceledGroupPlan": "Canceled Group Plan",
-    "groupPlanCanceled": "Group Plan will become inactive on",
+    "canceledGroupPlan": "Plan de grupo cancelado",
+    "groupPlanCanceled": "El plan de grupo se volverá inactivo el",
     "purchasedGroupPlanPlanExtraMonths": "Tienes <%= months %> meses de saldo extra de plan de grupo."
 }
